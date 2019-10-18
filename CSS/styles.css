@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(#f9e090, #ff935c, #dc5353, #a72461);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%
+}
+
+h1 {
+  color: #6807f9;
+}
+
+h3 {
+  color: #6807f9;
+}
+
+img {
+  border-radius: 8px;
+}
