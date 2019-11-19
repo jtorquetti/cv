@@ -1,5 +1,9 @@
 body {
   background-image: linear-gradient(#f9e090, #ff935c, #dc5353, #a72461);
+  margin: auto 10px;
+  width: auto;
+  height: 1200px;
+
 }
 
 hr {
